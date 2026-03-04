@@ -41,6 +41,8 @@ for i from list:
 
 하지만 아직 list가 없으므로 TODO.
 
+이 외엔 기본적으로 while처럼 동작(for true)
+
 -----[What's Next]-----
 
 이 언어를 더이상 개발하고 싶지는 않고
